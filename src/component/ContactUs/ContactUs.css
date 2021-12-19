@@ -1,0 +1,21 @@
+
+.fixed-contact{
+    z-index: -1;
+}
+
+.contact-form{
+    color: rgb(41, 191, 0);
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.submit-btn{
+    color: rgb(41, 191, 0);
+    background-color: transparent;
+}
+
+.submit-btn:hover{
+    background-color: rgb(41, 191, 0);
+    color: aliceblue;
+}

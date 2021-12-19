@@ -1,0 +1,11 @@
+.blog-page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    color: aliceblue;
+}
+
+.blog-page h1{
+    font-size: 4.4rem;
+}

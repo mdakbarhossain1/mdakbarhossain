@@ -1,0 +1,26 @@
+.project-background{
+    background-color: #020b3e;
+    color: aliceblue;
+    height: 92vh;
+}
+
+.project-container{
+    padding: 30px 0;
+    margin: 30px 0;
+}
+
+.nevagation-btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+    margin: 10px 0;
+}
+
+.nevagation-btn a{
+    text-decoration: none;
+}
+
+.site-button a{
+    text-decoration: none;
+}
