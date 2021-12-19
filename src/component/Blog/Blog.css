@@ -1,11 +1,12 @@
 .blog-page{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 80vh;
+    text-align: center;
     color: aliceblue;
 }
 
 .blog-page h1{
-    font-size: 4.4rem;
+    font-weight: bold;
+}
+
+.blog-title{
+    color: aliceblue;
 }
