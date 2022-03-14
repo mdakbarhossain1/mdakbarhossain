@@ -32,8 +32,8 @@ const About = () => {
 
 
             <div className="nevagation-btn">
-                <Link to="/projects"><span className="fd-btn"><i class="fas fa-arrow-left"></i> Projects</span></Link>
-                <Link to="/contact"><span className="fd-btn">Contact Us <i class="fas fa-arrow-right"></i></span></Link>
+                <Link to="/projects"><span className="fd-btn"><i class='bx bx-chevron-left' ></i> Projects</span></Link>
+                <Link to="/contact"><span className="fd-btn">Contact Us <i class='bx bx-chevron-right' ></i></span></Link>
             </div>
         </div>
     );

@@ -16,7 +16,7 @@ const Home = () => {
                             </p>
                             <p className="sub-title">I'm junior Frontend Developer </p>
 
-                            <Link to="/projects"><span className="fd-btn">Projects <i class="fas fa-arrow-right"></i></span></Link>
+                            <Link to="/projects"><span className="fd-btn">Projects <i class='bx bx-chevron-right'></i></span></Link>
                         </div>
                     </Fade>
                 </div>
