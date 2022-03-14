@@ -43,6 +43,11 @@
     border-radius: 15px;
 }
 
+.fd-btn i{
+    font-size: 1.5rem;
+    padding: 3px;
+}
+
 .fd-btn:hover{
     background-color: rgb(41, 191, 0);
     border: none;
