@@ -50,8 +50,8 @@ export const ContactUs = () => {
                 </div>
 
                 <div className="nevagation-btn">
-                    <Link to="/about"><span className="fd-btn"><i class="fas fa-arrow-left"></i> About</span></Link>
-                    <Link to="/home"><span className="fd-btn">Home <i class="fas fa-arrow-right"></i></span></Link>
+                    <Link to="/about"><span className="fd-btn"><i class='bx bx-chevron-left' ></i> About</span></Link>
+                    <Link to="/home"><span className="fd-btn">Home <i class='bx bx-chevron-right' ></i></span></Link>
                 </div>
             </Container>
         </div>

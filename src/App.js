@@ -6,6 +6,8 @@ import ContactUs from './component/ContactUs/ContactUs';
 import Projects from './component/Projects/Projects';
 import Blog from './component/Blog/Blog';
 import DetailsPeojets from './component/DetailsProjects/DetailsPeojets';
+import ReactBlog from './component/Blog/Reactblog/ReactBlog';
+import Curd from './component/Blog/Curd/Curd';
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
           <Route path="/projects/:id" element={<DetailsPeojets />} />
           <Route path="/about" element={<About />} />
           <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/reactBlog" element={<ReactBlog />} />
+          <Route path="/blog/curd" element={<Curd />} />
           <Route path="/contact" element={<ContactUs />} />
         </Routes>
       </BrowserRouter>

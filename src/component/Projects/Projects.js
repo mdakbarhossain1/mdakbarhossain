@@ -72,8 +72,8 @@ const Projects = () => {
                     </div>
 
                     <div className="nevagation-btn">
-                        <Link to="/home"><span className="fd-btn"><i class="fas fa-arrow-left"></i> Home</span></Link>
-                        <Link to="/about"><span className="fd-btn">About <i class="fas fa-arrow-right"></i></span></Link>
+                        <Link to="/home"><span className="fd-btn"><i class='bx bx-chevron-left' ></i> Home</span></Link>
+                        <Link to="/about"><span className="fd-btn">About <i class='bx bx-chevron-right' ></i></span></Link>
                     </div>
                 </Container>
             </div>
